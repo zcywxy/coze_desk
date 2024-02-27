@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coze", "Coze.csproj", "{66D2855F-B9A4-4BB6-AEA7-6E095C460FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D2855F-B9A4-4BB6-AEA7-6E095C460FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D2855F-B9A4-4BB6-AEA7-6E095C460FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D2855F-B9A4-4BB6-AEA7-6E095C460FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D2855F-B9A4-4BB6-AEA7-6E095C460FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D7D869E-5793-4903-B907-8D1AFB03036B}
+	EndGlobalSection
+EndGlobal
