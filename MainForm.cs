@@ -34,6 +34,8 @@ namespace Coze
             Cef.Initialize(settings);
             InitializeComponent();
             chromeBrowser.MenuHandler = new CustomContextMenuHandler();
+
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
